@@ -1,0 +1,15 @@
+D:\Lập trình hướng đối tượng\Youtube\Youtube\bin\Debug\net6.0\Youtube.exe
+D:\Lập trình hướng đối tượng\Youtube\Youtube\bin\Debug\net6.0\Youtube.deps.json
+D:\Lập trình hướng đối tượng\Youtube\Youtube\bin\Debug\net6.0\Youtube.runtimeconfig.json
+D:\Lập trình hướng đối tượng\Youtube\Youtube\bin\Debug\net6.0\Youtube.dll
+D:\Lập trình hướng đối tượng\Youtube\Youtube\bin\Debug\net6.0\Youtube.pdb
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.csproj.AssemblyReference.cache
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.AssemblyInfoInputs.cache
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.AssemblyInfo.cs
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.dll
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\refint\Youtube.dll
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.pdb
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\Youtube.genruntimeconfig.cache
+D:\Lập trình hướng đối tượng\Youtube\Youtube\obj\Debug\net6.0\ref\Youtube.dll
